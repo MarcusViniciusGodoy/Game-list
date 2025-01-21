@@ -1,4 +1,4 @@
-package com.gamelist.game_list;
+package com.gamelist.game_list.dto;
 
 import com.gamelist.game_list.entities.Game;
 
